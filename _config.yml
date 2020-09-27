@@ -29,3 +29,5 @@ extAdsense: false
 
 extMath: false
 
+
+theme: jekyll-theme-slate
